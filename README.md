@@ -1,4 +1,4 @@
 # slidertk - BXSlider Width Animated Caption
 
-Inline-style: 
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Example Image")
+Demo Image: 
+![alt text](https://raw.githubusercontent.com/partitect/slidertk/main/img/doc-image.png "Example Image")
